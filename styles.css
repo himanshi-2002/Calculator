@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color:rgb(242, 244, 252);
+}
+.center{
+    text-align : center;
+    color:rgb(20, 22, 145);
+}
+.mx-auto{
+    margin:auto;
+}
+.flex{
+    display:flex;
+    align-items:center;
+}
+.flex-col{
+    flex-direction:column;
+}
+.button{
+    font-size:25px;
+    padding:20px;
+    margin:0px 3px;
+    border: 2px solid black;
+    border-radius:9px;
+    cursor:pointer;
+   width:60px;
+}
+
+.row{
+    margin : 8px 0px;
+}
+.row input{
+    font-size:20px;
+    margin:8px;
+    padding:10px 10px;
+    border: 2px solid black;
+    border-radius:5px;
+}
+.color{
+    background-color:orange;
+}
